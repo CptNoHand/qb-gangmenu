@@ -8,4 +8,5 @@ Config.Gangs = {
     ['families'] = vector3(0, 0, 0),
     ['marabunta'] = vector3(1281.26, -1619.63, 27.23),
     ['rooks'] = vector3(22.93, 6472.1, 31.9),
+    ['empireelite'] = vector3(-775.75, 800.26, 215.16),
 }
